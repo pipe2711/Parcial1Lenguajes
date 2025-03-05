@@ -1,0 +1,7 @@
+value = lambda x: x ** 2
+print(value(4)) 
+
+value = 12
+
+
+
